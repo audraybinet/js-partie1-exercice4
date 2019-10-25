@@ -16,3 +16,4 @@ alert(`
 //document.getElementById("submit").onmouseover = fonction() {nom de la fonction}
 //document.getElementById("submit").ondbclick = fonction() {nom de la fonction}
 //dom1 :addEventListener(nom de l'evevement'click',ajoutfcallback nom de la fonction);
+//recuperation des éléments : document.querySelector(recupere la premiere occurence ex:'button')
