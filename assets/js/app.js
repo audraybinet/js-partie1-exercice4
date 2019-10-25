@@ -15,3 +15,4 @@ alert(`
 //deuxieme version
 //document.getElementById("submit").onmouseover = fonction() {nom de la fonction}
 //document.getElementById("submit").ondbclick = fonction() {nom de la fonction}
+//dom1 :addEventListener(nom de l'evevement'click',ajoutfcallback nom de la fonction);
