@@ -8,3 +8,10 @@ alert(`
   Ville: ${city}
 `);
 }
+
+// on enleve le onclick du html
+//dom 0
+//document.getElementById("submit").onclick = fonction() {nom de la foncion};
+//deuxieme version
+//document.getElementById("submit").onmouseover = fonction() {nom de la fonction}
+//document.getElementById("submit").ondbclick = fonction() {nom de la fonction}
